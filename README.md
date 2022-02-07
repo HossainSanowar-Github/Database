@@ -1,6 +1,7 @@
 # Database
 - MySQL
-  - exercise: Glass Identification Data Set
+  - exercise: Glass Identification
+  - exercise: Car Evaluation
 - MySQL Light
 - MongoDB
 _ casana
